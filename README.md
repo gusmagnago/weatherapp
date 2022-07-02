@@ -39,7 +39,7 @@ repository. You can copy the file `.env.sample` and rename it to
 cp .env.sample .env
 ```
 
-`.change the values`
+`change the values`
 
 ## Available Scripts
 
@@ -62,3 +62,7 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### Thank you!
+
+### 🛸
